@@ -3,17 +3,18 @@
 End-to-end HR analytics project simulating workforce insights for enterprise HR teams.
 
 ## Technologies
-Python
-SQL
-AWS S3
-Power BI
-Git
+* Python
+* SQL
+* AWS S3
+* Git
+* Power BI (WIP)
+
 
 ## Features
-Data pipeline for HR datasets
-Data quality monitoring
-SQL analytics queries
-Cloud storage using AWS S3
+* Data pipeline for HR datasets
+* Data quality monitoring
+* SQL analytics queries
+* Cloud storage using AWS S3
 
 ## WIP
 Interactive dashboards
