@@ -44,20 +44,28 @@ Certain departments exhibit elevated attrition rates compared to others.
 
 ### 1. Improve Early Employee Experience
 
+![Attrition by Tenure](../dashboards/attrition_by_tenure.png)
+
 * Strengthen onboarding programs
 * Implement 90-day and 6-month check-ins
 
 ### 2. Address Work-Life Balance
+
+![Attrition by Work-Life Balance](../dashboards/attrition_by_worklifebalance.png)
 
 * Evaluate workload distribution
 * Expand flexible work policies
 
 ### 3. Target High-Risk Departments
 
+![Attrition by Department](../dashboards/attrition_by_department.png)
+
 * Conduct deeper analysis on specific teams
 * Partner with managers to identify root causes
 
 ### 4. Predictive Attrition Risk
+
+![Risk Distribution](../dashboards/risk_distribution.png)
 
 A machine learning model was developed to assign an attrition risk score to each employee.
 
