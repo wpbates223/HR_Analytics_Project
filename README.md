@@ -127,10 +127,10 @@ HR_Analytics_Project/<br>
 
 ---
 
-## What This Project Demonstrates
+## Project Highlights
 
 * End-to-end data pipeline development
-* Strong SQL and Python analytics skills
+* SQL and Python analytics 
 * Data quality and governance implementation
 * Business-focused analytics and storytelling
 * Cloud data integration using AWS
