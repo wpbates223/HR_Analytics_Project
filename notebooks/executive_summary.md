@@ -57,10 +57,15 @@ Certain departments exhibit elevated attrition rates compared to others.
 * Conduct deeper analysis on specific teams
 * Partner with managers to identify root causes
 
+### 4. Predictive Attrition Risk
+
+A machine learning model was developed to assign an attrition risk score to each employee.
+
+* This allows proactive retention strategies instead of reactive analysis.
+
 ---
 
 ## Next Steps
 
-* Develop attrition prediction model to proactively identify at-risk employees
 * Integrate dashboard into HR decision workflows
 * Continuously monitor attrition trends over time
