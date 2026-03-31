@@ -115,14 +115,14 @@ Interactive dashboard providing:
 
 ## Project Structure
 
-HR_Analytics_Project/
-│
-├── dashboards/
-├── data/
-├── docs/
-├── notebooks/
-├── sql/
-├── src/
+HR_Analytics_Project/<br>
+│<br>
+├── dashboards/<br>
+├── data/<br>
+├── docs/<br>
+├── notebooks/<br>
+├── sql/<br>
+├── src/<br>
 └── README.md
 
 ---
