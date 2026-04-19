@@ -1,6 +1,6 @@
 # HR Workforce Analytics Platform
 
-End-to-end HR analytics system designed to simulate how enterprise organizations like Capital One leverage data to drive workforce strategy, retention, and operational efficiency.
+End-to-end HR analytics system designed to simulate how enterprise organizations leverage data to drive workforce strategy, retention, and operational efficiency.
 
 ---
 
